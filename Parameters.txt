@@ -16,10 +16,10 @@
 ?step={payload}
 ?read={payload}
 ?function={payload}
-?request={payload}
-?feature={payload}
+?requests={payload}
+?features={payload}
 ?exe={payload}
-?module={payload}
-?payload={payload}
+?modules={payload}
+?payloads={payload}
 ?run={payload}
 ?print={payload}
