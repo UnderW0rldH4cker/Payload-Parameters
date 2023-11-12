@@ -1,28 +1,4 @@
 ?cmd={payload}
-?exec={payload}
-?command={payload}
-?execute{payload}
-?ping={payload}
-?query={payload}
-?jump={payload}
-?code={payload}
-?reg={payload}
-?do={payload}
-?func={payload}
-?arg={payload}
-?option={payload}
-?load={payload}
-?process={payload}
-?step={payload}
-?read={payload}
-?function={payload}
-?requests={payload}
-?features={payload}
-?exe={payload}
-?modules={payload}
-?payloads={payload}
-?run={payload}
-?print={payload}
 
 Correct Approach but wrong place to be~
 
