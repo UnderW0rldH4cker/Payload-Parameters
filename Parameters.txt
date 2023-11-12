@@ -16,7 +16,7 @@
 ?step={payload}
 ?read={payload}
 ?function={payload}
-?req={payload}
+?request={payload}
 ?feature={payload}
 ?exe={payload}
 ?module={payload}
